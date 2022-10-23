@@ -10,7 +10,7 @@ exports.menu = (botname, pushname, salam) => {
 	return`Selamat ${salam} kak ${pushname}
 
 Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
-Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏`
+Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor ke owner lynx Agar Segera Di Perbaiki🙏`
 }
 
 //—————「 List 」—————//
@@ -140,7 +140,6 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}waifus 
   *≻* ${prefix}nekos 
   *≻* ${prefix}trap 
-  *≻* ${prefix}blowjob 
   
   *TEXT PRO MENU*
   *≻* ${prefix}3dchristmas
@@ -425,7 +424,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* Riy
   *≻* Deff
   *≻* Sanzy
-  *≻* Nekel
+  *≻* lynx.man
   *≻* Bagas Prdn
   `
 }
@@ -456,12 +455,12 @@ Thanks!
 —————「 *SEWA | RUN BOT* 」—————
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
-  *≻* Sewa Bot 20k (1 bulan)
-  *≻* Sewa Bot 25k (Permanen)
+  *≻* Sewa Bot rm10 (1 minggu)
+  *≻* Sewa Bot rm5 (1 bulan)
+  *≻* Sewa Bot rm1 (Permanen)
 
   *JADI BOT* 
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
+  *≻* Jadi Bot rm5 Tidak Owner (1 minggu)
   *≻* Jadi Bot + Owner 20k (1 bulan)
   *≻* Jadi Bot + Owner 25k (Permanen)
 
@@ -960,7 +959,7 @@ exports.thanksto = () => {
   *≻* Riy
   *≻* Deff
   *≻* Sanzy
-  *≻* Nekel
+  *≻* lynx.man
   *≻* Bagas Prdn
 `
 }
